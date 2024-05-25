@@ -1,0 +1,15 @@
+site:
+  title: Билеты для экзамена на phd
+  start_page: vm::index.adoc
+content:
+  sources:
+  - url: .
+    start_path: docs
+    branches: HEAD
+
+asciidoc:
+  attributes:
+    page-pagination: ''
+ui:
+  bundle:
+    url: ./ui

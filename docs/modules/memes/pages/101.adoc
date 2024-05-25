@@ -1,0 +1,22 @@
+
+= Boob 
+:stem:
+
+Hello!  stem:[x + y = 42]
+
+== Subtitle
+
+Boob
+
+=== Analysis
+
+Pluses:
+
+[pluses]
+* more lines
+* positive vibe
+
+Minuses:
+
+[minuses]
+* negative vibe
