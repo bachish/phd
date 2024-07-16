@@ -1,4 +1,5 @@
 =  Булевы функции, КНФ, ДНФ
+:stem:
 
 https://m.cs.msu.ru/s/6JnNMf5AXwYT7JF?path=%2F2021-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%203-%D0%94%D0%9D%D0%A4%2C%20%D0%9A%D0%9D%D0%A4%2C%20%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D0%BE%D0%BC%D1%8B[Лекции МГУ]
 

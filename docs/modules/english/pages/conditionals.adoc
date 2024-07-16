@@ -1,0 +1,67 @@
+= Conditionals (условные предложения)
+
+== 0-type
+
+* Present Simple + Present Simple
+* If/When + V/Vs,  V/Vs 
+* Общеизвестная правда
+* Если (когда) ..., то ...
+
+=== Examples
+* If it is cold, we wear warm clothes.
+* If you heat water up to 100 degrees, it boils.
+
+
+
+== type 1 
+* Present simple + Future simple
+* если будет то-то, то будет так
+* If + V/Vs (Present Simple),  _____ + will + V (Future Simple).
+
+
+У if нет будущего! (точнее, в части условного предложения с частичкой if ни в одной из форм не используется будущее время)
+
+=== Examples
+* If I wake up early, I will go to the gym.
+* If the weather is good, I will go for a walk.
+* If he comes home late, we will not go to the cinema.
+
+== type 2 
+
+* Past Simple + Future in the past (would, прошедшее время от will)
+* (если бы, то бы)
+
+* гипотетическое\мечтательное будущее
+
+* (If + V2,ed (Past Simple)),  [ ___ + would + V].
+
+will -> would
+
+would + not = wouldn't
+
+=== Examples 
+* If I had more money, I would buy a new flat.
+* What would you do, if you had more money?
+
+In this type only past simple for one person in 'to be' is 'were':
+
+If I were you, I wouldn't do it.
+
+If I were hungry, I would eat a sandwich.
+
+If I was hungry, I would eat a sandwich
+
+
+
+== Exercises 
+https://wordwall.net/resource/25613600/conditionals-0-1-2
+https://wordwall.net/resource/11058048/conditionals-0-1-2
+https://www.liveworksheets.com/w/en/english-second-language-esl/2330998
+
+=== ??
+
+почему i do not know 
+
+if only...
+
+i wish

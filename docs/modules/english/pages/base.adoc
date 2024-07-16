@@ -1,0 +1,72 @@
+= Base
+
+== Present Simple (настоящее, регулярное, повторяющееся)
+
+V - глагол
+
+V - i, you, we, they
+
+Vs - he, she, it
+
+
+Структура предложения: _____ + V/Vs
+
+* I wake up at 7 o'clock every day.
+* He wakes up at 7 o'clock every day.
+
+
+=== Negations 
+
+do not = don't
+
+does not = doesn't
+
+I, you , we , they + don't + V.
+
+I don't like coffee.
+
+He, she, it + doesn't + V.
+
+He doesn't like coffee.
+
+ Здесь like не меняет свою форму, потому что на does уже повлияло подлежащее.
+
+=== Questions
+Do you like coffee? - Yes, I do.
+
+Does he like coffee? - No, he doesn't
+
+What do you like?
+
+Why does he like coffee?
+
+
+== To be 
+
+am / is / are
+
+Все предложения в английском имеют подлежащее и сказуемое. Если сказуемого (глагола) нет в русской версии -- в английской в качестве него чаще всего используется глагол to be.
+
+I am from Moscow.
+
+He is my boss.
+
+We are students.
+
+
+=== Отрицание 
+После to be стоит not
+
+=== Вопрос 
+To be первое в предложении (после специальных вопросов)
+
+Is he your boss?
+
+Are they friends?
+
+Why are you here?
+
+What is your name?
+
+
+

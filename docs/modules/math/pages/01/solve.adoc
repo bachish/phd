@@ -1,7 +1,5 @@
-:stem:
-
 = Разрешимые и перечислимые языки
-
+:stem:
 
 https://www.youtube.com/watch?v=2duqp1Kt160&list=PLHX_ZgKaM8sJD1d2SrFikhhmwDqiqsrqy&index=9[Лекция Станкевича: ИТМО ДМ]
 
