@@ -8,7 +8,7 @@
 * кластеры;
 * MPP-системы вычислений с массовым параллелизмом (massively parallel processor).
 
-== Многомашинные комплексы
+== Многомашинные комплексы footnote:[https://intuit.ru/studies/courses/604/460/lecture/10345] footnote:[https://www.icmm.ru/uchebnaya-deyatelnost/lektsii/495-mnogomashinnye-i-mnogoprotsessornye-vychislitelnye-kompleksy-opredelenie-tipy-svyazej-i-strukturnaya-organizatsiya-osobennosti-programmnogo-obespecheniya-primery-otechestvennykh-i-zarubezhnykh-vychislitelnykh-kompleksov]
 
 Многомашинная вычислительная система (ММС) содержит несколько ЭВМ, каждая из которых имеет свою операционную систему и средства обмена информацией между машинами. 
 
