@@ -1,1 +1,13 @@
-4. Особенности архитектуры локальных сетей (Ethernet, FDDI, WiFi).
+= 4.Локальные сети footnote:[https://docs.yandex.ru/docs/view?tm=1721720544&tld=ru&lang=ru&name=752.pdf&text=архитектура%20локальных%20сетей&url=https%3A%2F%2Fbooks.ifmo.ru%2Ffile%2Fpdf%2F752.pdf&lr=2&mime=pdf&l10n=ru&sign=cd20373b54dbdb58612134c626d74c73&keyno=0&nosw=1&serpParams=tm%3D1721720544%26tld%3Dru%26lang%3Dru%26name%3D752.pdf%26text%3D%25D0%25B0%25D1%2580%25D1%2585%25D0%25B8%25D1%2582%25D0%25B5%25D0%25BA%25D1%2582%25D1%2583%25D1%2580%25D0%25B0%2B%25D0%25BB%25D0%25BE%25D0%25BA%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D1%2585%2B%25D1%2581%25D0%25B5%25D1%2582%25D0%25B5%25D0%25B9%26url%3Dhttps%253A%2F%2Fbooks.ifmo.ru%2Ffile%2Fpdf%2F752.pdf%26lr%3D2%26mime%3Dpdf%26l10n%3Dru%26sign%3Dcd20373b54dbdb58612134c626d74c73%26keyno%3D0%26nosw%3D1]
+
+Особенности архитектуры локальных сетей (Ethernet, FDDI, WiFi).
+
+Локальная сеть (LAN, Local Area Network) — частная сеть, функционирующая в отдельном здании и на прилегающей территории.
+
+Компьютер обращается к специальному устройству, которое называется точкой доступа (AP, Access Point), беспроводным маршрутизатором (wireless router) или базовой станцией (base station). Это устройство пересылает пакеты между компьютерами в сети.
+
+== Ethernet 
+
+== FDDI 
+
+== WiFi
