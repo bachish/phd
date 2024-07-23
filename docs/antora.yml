@@ -6,6 +6,10 @@ start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/math/nav.adoc
-- modules/english/nav.adoc
 - modules/vm/nav.adoc
+- modules/languages/nav.adoc
+- modules/se/nav.adoc
+- modules/os/nav.adoc
+- modules/bd/nav.adoc
+- modules/english/nav.adoc
 - modules/memes/nav.adoc
