@@ -1,4 +1,6 @@
-= 4.Локальные сети footnote:[https://books.ifmo.ru/book/628/seti_evm_i_telekommunikacii.htm, Раздел 3]
+= 4. Локальные сети 
+
+footnote:[https://books.ifmo.ru/book/628/seti_evm_i_telekommunikacii.htm, Раздел 3]
 
 Особенности архитектуры локальных сетей (Ethernet, FDDI, WiFi).
 

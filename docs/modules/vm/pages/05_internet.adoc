@@ -1,4 +1,6 @@
-= 5. Сеть Internet footnote:[https://books.ifmo.ru/book/628/seti_evm_i_telekommunikacii.htm, Раздел 4]
+= 5. Сеть Internet 
+
+footnote:[https://books.ifmo.ru/book/628/seti_evm_i_telekommunikacii.htm, Раздел 4]
 
 == доменная организация 
 
