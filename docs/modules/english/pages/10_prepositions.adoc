@@ -1,0 +1,20 @@
+= Prepositions
+
+
+[cols=2*,options="header",cols="25,75"]
+|===
+|Time |Proposition | Place
+
+|v 
+|in
+|
+
+|b
+|on
+|
+
+|n 
+|at
+|
+
+|===
