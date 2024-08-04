@@ -1,6 +1,28 @@
 = indirect questions
 
-footnote:[https://foxford.ru/wiki/angliyskiy-yazyk/pryamye-i-kosvennye-voprosy-direct-and-indirect-questions?utm_referrer=https%3A%2F%2Fwww.google.com%2F]
+Для таких вопросов характерен прямой порядок слов, то есть сказуемое в них следует за подлежащим, как в утвердительных предложениях. footnote:[https://foxford.ru/wiki/angliyskiy-yazyk/pryamye-i-kosvennye-voprosy-direct-and-indirect-questions?utm_referrer=https%3A%2F%2Fwww.google.com%2F]
+
+в косвенных вопросах НЕ используются did, do, does
+
+*{вводная фраза} {вопросительное слово} {подлежащее} {сказуемое}?*
+
+What *is he* doing? -> Could you tell me what *he is* doing?
+
+I wonder when *he returned*.
+
+Could you tell me where I *can stay*?
+
+== Косвенный общий вопрос 
+Заменяет *did/does/do*
+
+*{вводная фраза} {if/whether} {подлежащее} {сказуемое}?*
+
+Could you tell me if/whether I *can stay*?
+
+I wonder if/whether *he returned*.
+
+Did he admit his mistake? -> Can you tell me whether he admit his mistake?
+
 
 == Two questions
 
