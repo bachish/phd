@@ -12,7 +12,7 @@
 
 3. через: in a week, in a 3 days
 
-|in
+|*in*
 |
 
 | 1. дата "on 21 january" 
@@ -26,7 +26,7 @@ on holyDAY
 on Christmas DAY
 
 
-|on
+|*on*
 |
 
 |1. время: at 3 o'clock 
@@ -36,7 +36,7 @@ on Christmas DAY
 "at a new year"
 
 3. Непродолжительные временные интервалы: at night, at noon, at midnight, at dawn, at the weekend
-|at
+|*at*
 |
 
 |===
