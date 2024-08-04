@@ -1,7 +1,7 @@
 = Prepositions
 
 
-[cols=2*,options="header",cols="25,75"]
+[cols=3*,options="header",cols="25,75"]
 |===
 Time |Proposition | Place
 
