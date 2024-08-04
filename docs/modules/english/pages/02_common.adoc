@@ -1,5 +1,9 @@
 = Commons 
 
+many -- можно посчитать
+
+much -- нельзя посчитать (i love you so much)
+
 == which/that/who
 
 I know the person who lives here
