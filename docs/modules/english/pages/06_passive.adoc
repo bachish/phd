@@ -1,5 +1,7 @@
 = The Passive Voice 
 
+by/with -- инструмент
+
 [cols="1,1,1,1", options="header"]
 |===
 | Verb form | INDEFINITE | CONTINUOUS | PERFECT
