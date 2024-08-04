@@ -1,5 +1,53 @@
 = Conditionals (условные предложения)
 
+У (части с ) if(/when) нет будущего!!
+
+[cols=4*,options="header"]
+|===
+| Типы 
+| Время событий
+| Придаточное 
+| Главное 
+
+|0
+|Present
+|*If/when + present simple* 
+
+if you heat water 
+|*present simple*
+
+, it boils
+
+|1
+|Future
+|*If/when + Present Simple*
+
+If I paint a nive picture,
+|*Future simple*
+
+I will give it to you.
+
+|2 
+|Present Future 
+|*If/when + Past Simple* 
+
+If i were a President,
+|*would/could + Infinitive(V1)*
+
+I would build it.
+
+|3
+|Past
+|If/when + *Past Perfect* (had + V3)
+
+If it hadn't rained yesterday,
+
+|*would have + V3*
+
+we would have gone to Moscow.
+
+|===
+
 == 0-type
 
 * Present Simple + Present Simple
