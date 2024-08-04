@@ -1,4 +1,56 @@
 = The Passive Voice 
+
+[cols="1,1,1,1", options="header"]
+|===
+| Verb form | INDEFINITE | CONTINUOUS | PERFECT
+
+| PRESENT
+| am /is /are + V3
+| am/is/are + being + V3
+| have/has + been + V3
+
+|-
+| Usually houses are built 8 months.
+
+Обычно дома строят 8 месяцев.
+| This house is being built now.
+
+Этот дом строится сейчас.
+| This house has been already built.
+
+Этот дом уже построен.
+
+| PAST
+| was/were + V3
+| was/were + being + V3
+| had + been + V3
+
+|-
+| This house was built last year.
+
+Этот дом был построен в прошлом году.
+| When I came last year this house was being built.
+
+Когда я в прошлом году приехал, этот дом строился.
+| This house had been built before I came.
+
+Этот дом был построен до того, как я приехал.
+
+| FUTURE
+| will + be + V3
+| X
+| will + have + been + V3
+
+|-
+| This house will be built next year.
+
+Этот дом будет построен в следующем году.
+| X
+| This house will have been already built by January.
+
+Этот дом будет построен к Январю.
+|===
+
 * V3/ed + to be
 
 == Present simple passive 
