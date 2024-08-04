@@ -3,7 +3,8 @@
 
 [cols=3*,options="header",cols="25,75"]
 |===
-Time |Proposition | Place
+
+| Time |Preposition | Place
 
 | 1. year/century/season/month
 
