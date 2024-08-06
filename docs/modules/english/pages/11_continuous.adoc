@@ -1,0 +1,33 @@
+= Continuous 
+
+[cols=2]
+|===
+|Past Continuous
+| Past Perfect Continuous
+
+
+|I saw Mary. She was crying
+|Mary’s eyes were red. She had been crying. 
+
+|It was snowing heavily when we left our house
+|It had been snowing heavily for two hours or so when we left our house
+
+|===
+
+== Past Continuous
+I was sleeping when he called me.
+
+Переводится как несовершенная форма глагола (делал, а не сделал).
+Выражает длящееся (ещё не закончившееся) действие в какой-то момент в прошлом, но когда оно началось — нам неизвестно. Главное то, что оно продолжалось в тот самый момент.
+
+When I looked out of the window, it was raining. — Когда я выглянула в окно (я увидела), что дождь идёт (капли барабанят по мостовой, люди бегают с зонтами, то есть дождь шел «в момент выглядывания»).
+
+== Past Perfect Continuous
+
+Тоже переводится как несовершенная форма глагола (делал, а не сделал).
+
+Past Perfect Continuous
+Выражает действие, которое происходило в течение какого-то времени (обычно известного) до какого-то «опорного» действия, выраженного чаще всего Past Simple.
+
+When I looked out of the window, it had been raining. — Когда я выглянула в окно (я увидела), что дождь шёл (то есть он был, но уже закончился. Наверное, я увидела лужи, мокрые дороги и яркое солнце и поняла причину, почему дороги мокрые и откуда лужи).
+
