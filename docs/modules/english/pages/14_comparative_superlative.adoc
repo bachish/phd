@@ -1,1 +1,71 @@
+= Comparative and superlative
+
+[cols=4]
+|===
+| what | how|  comparative | superlative
+|1 syllable 
+
+old/nice(oral 1 s.) 
+|+er  
+| older THAN  
+| THE oldest
+
+|2 syllables ending y 
+
+happy
+|-y -> -ier
+|happier than
+|THE happinest
+
+|2 or more syllables 
+|MORE + adjective 
+
+MORE boring THAN
+
+|MOST BORING
+
+|irregular
+|good
+|better
+|THE best
+
+|_
+|bad
+|worse
+|THE worst 
+
+|_
+|little 
+|less
+|THE least
+
+|-
+|much\many
+|more
+|THE most
+
+|-
+|far 
+|farther/further
+|the farthest/furthest 
+
+
+|===
+
+== as .. as 
+My house is as big as your house
+
+My house is not as big as …..
+
+He works as hard as his colleagues.
+
+== same .. as 
+I bought the same dress as you had bought last week.
+
+== наречия 
+описывают действия, не сравниваются как прилагательные. часто могут быть теми же словами, что и прилагательные.
+
+* He walks very slowly.
+* Hardly - едва
+
 
