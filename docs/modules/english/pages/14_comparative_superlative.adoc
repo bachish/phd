@@ -1,5 +1,7 @@
 = Comparative and superlative
 
+Besides MORE we can use an opposite LESS (in same cases)
+
 [cols=4]
 |===
 | what | how|  comparative | superlative
@@ -15,6 +17,8 @@ old/nice(oral 1 s.)
 happy
 |-y -> -ier
 |happier than
+
+friendlier THAN
 |THE happinest
 
 |2 or more syllables 
