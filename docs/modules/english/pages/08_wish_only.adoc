@@ -1,5 +1,53 @@
 = Wish / only
 
+[cols=3]
+|===
+|Сожаление|Cond|Tense
+
+|недовольство, раздражение, невозможность разрешения ситуации
+| 1
+
+If he stops lying it will be better.
+|If only + would+Infinitive
+
+I wish he would stop lying. 
+
+I wish I could change the weather. (нытье)
+
+| Сожаление о настоящем
+| 2 Conditionals 
+
+If only I spoke French, I would talk to him!
+
+ If I were lying on the I beach, it would be better. 
+
+If I could get a better job, it would be better. 
+
+|I\.. wish + Past Simple (V2, ed)/Past Continuous/could + infinitive (без to!) 
+
+I wish he were here now
+
+I wish it was not drizzling
+
+He wishes he earned more.
+
+If only you gave up smoking
+
+|О прошлом
+|3 conditionals
+
+If I had met him earlier, it would have changed my life.
+
+If I had been wiser, I wouldn’t have done such a silly thing.
+
+|If only + Past Perfect/Past Perfect Continuous
+
+I wish you had had time then. 
+
+If only I had prepared more properly. 
+
+|===
+
 * Предложения с wish переводятся на русский язык следующими фразами: «Жаль, что… не…», «Как жаль, что… не…», «Как бы мне хотелось, чтобы…», «Хорошо бы, если бы…»
 
 == Сожаление о настоящем
