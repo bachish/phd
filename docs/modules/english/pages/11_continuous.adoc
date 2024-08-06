@@ -7,10 +7,10 @@
 
 
 |I saw Mary. She was crying
-|Mary’s eyes were red. She had been crying. 
+|Mary’s eyes were red. She had been crying.  (уже заплаканная)
 
 |It was snowing heavily when we left our house
-|It had been snowing heavily for two hours or so when we left our house
+|It had been snowing heavily for two hours or so when we left our house (уже заснеженно)
 
 |===
 
