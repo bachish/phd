@@ -12,5 +12,5 @@
 ** xref:11_continuous.adoc[]
 ** xref:11_questions.adoc[]
 ** xref:13_past_perfect.adoc[]
-** xref:14_comparative_and_superlative.adoc[]
+** xref:14_comparative_superlative.adoc[]
 ** xref:90_words.adoc[]
