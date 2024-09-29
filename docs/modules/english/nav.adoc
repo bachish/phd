@@ -1,11 +1,11 @@
 * English
 ** Tenses 
-*** xref:01_present_simple.adoc[]
-*** xref:02_present_continuous.adoc[]
-*** xref:03_past_simple.adoc[]
+*** xref:tenses/01_present_simple.adoc[]
+*** xref:tenses/02_present_continuous.adoc[]
+*** xref:tenses/03_past_simple.adoc[]
 *** xref:04_future.adoc[]
-*** xref:05_pastcontinuous.adoc[]
-*** xref:06_present_perfect.adoc[]
+*** xref:tenses/05_pastcontinuous.adoc[]
+*** xref:tenses/06_present_perfect.adoc[]
 
 ** xref:00_index.adoc[]
 ** xref:01_base.adoc[]
