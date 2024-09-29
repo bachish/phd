@@ -3,7 +3,7 @@
 *** xref:tenses/01_present_simple.adoc[]
 *** xref:tenses/02_present_continuous.adoc[]
 *** xref:tenses/03_past_simple.adoc[]
-*** xref:04_future.adoc[]
+*** xref:tenses/04_future.adoc[]
 *** xref:tenses/05_pastcontinuous.adoc[]
 *** xref:tenses/06_present_perfect.adoc[]
 
