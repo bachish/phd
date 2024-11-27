@@ -1,13 +1,24 @@
 = Present simple 
 
-V/Vs
 
 * настоящее 
 * регулярное 
 * повторяющееся
+
+V/Vs
+
+V - глагол
+
+V - i, you, we, they
+
+Vs - he, she, it
+
+== Examples
 
 I wake up at 7 o'clock every morning
 
 Do you like coffee?
 
 What time does the film starts? (??)
+
+

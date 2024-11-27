@@ -1,15 +1,38 @@
 = Past simple 
+(простое прошедшее время)
 
-V2 / V+ed
+____ + V2, ed.
 
-yesterday
+I worked a lot yesterday.
 
-I worked a lot yesterday
+I got a lot of money.
 
-I didn't 
+== Negation
 
-To be:
+did + not = didn't
 
-* I was busy 
-* Were you busy?
+I didn't work a lot yesterday.
 
+I didn't get a lot of money.
+
+I did work a lot.
+
+Did you see him yesterday? - Yes, I did. / No, I didn't.
+
+What did you do?
+
+== To be 
+
+~~ был
+
+To be (was/were)
+
+I, he, she, it - was
+
+you, we, they - were
+
+I was busy.
+
+I wasn't busy.
+
+Were you busy? - Yes, I was.
