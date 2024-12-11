@@ -6,7 +6,7 @@ by/with -- инструмент
 |===
 | Verb form | INDEFINITE | CONTINUOUS | PERFECT
 
-| PRESENT
+| PRESENT SIMPLE
 | am /is /are + V3
 | am/is/are + being + V3
 | have/has + been + V3
@@ -22,7 +22,7 @@ by/with -- инструмент
 
 Этот дом уже построен.
 
-| PAST
+| PAST SIMPLE
 | was/were + V3
 | was/were + being + V3
 | had + been + V3
@@ -38,7 +38,7 @@ by/with -- инструмент
 
 Этот дом был построен до того, как я приехал.
 
-| FUTURE
+| FUTURE SIMPLE
 | will + be + V3
 | X
 | will + have + been + V3
@@ -51,6 +51,7 @@ by/with -- инструмент
 | This house will have been already built by January.
 
 Этот дом будет построен к Январю.
+
 |===
 
 * V3/ed + to be
